@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/acil.png</file>
+    <file>icons/artialti.jpg</file>
+    <file>icons/giris.ico</file>
+    <file>icons/home_backgroung.jpg</file>
+    <file>icons/hoparlor.ico</file>
+    <file>icons/kırmızı_buton.ico</file>
+    <file>icons/koyu_kirmizi.jpg</file>
+    <file>icons/koyu_yesil.jpg</file>
+    <file>icons/next.jpg</file>
+    <file>icons/pause.jpg</file>
+    <file>icons/play.jpg</file>
+    <file>icons/previous.jpg</file>
+    <file>icons/stop.jpg</file>
+    <file>icons/teknoji.jpg</file>
+    <file>icons/view.jpg</file>
+    <file>icons/yesil_buton.ico</file>
+  </qresource>
+</RCC>
